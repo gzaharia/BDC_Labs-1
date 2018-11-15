@@ -34,14 +34,14 @@ as well as the identities of the teachers who taught them.
 
 For solving I performed a simple query in universitatea database to get all disciplines in desc mode. 
 
-![](https://github.com/MihaiGaidau/BDC_Labs/tree/master/lab4/screens/querry2.PNG) 
+![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab4/screens/querry2.jpg) 
 
 **Task 25** 
 
 In this example I used another options that I learned at this course which are called **inner join**.
 This feature helps me to unite 2 table in one in order to make some more complicated querries. 
 
-![](https://github.com/MihaiGaidau/BDC_Labs/tree/master/lab4/screens/querry25.PNG) 
+![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab4/screens/querry25.jpg) 
 
 **Task 26**
 
@@ -53,7 +53,7 @@ In this querry i had to find all students and teachers that live on **31 August*
 
 In this querry I had to find the courses that have the grade average bigger or equal to 7 so I used **AVG** function in order to find the average and keyword **and** to make more tasks in one line
 
-![](https://github.com/MihaiGaidau/BDC_Labs/tree/master/lab4/screens/querry35.PNG) 
+![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab4/screens/querry35.jpg) 
 
 
 
