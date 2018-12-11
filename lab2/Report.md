@@ -35,7 +35,7 @@
 
 2. **MaintenancePlan**
 
-![](https://github.com/gzaharia/BDC_Labs/blob/master/Laboratory_Work_N2/images/MaintenancePlan.PNG)
+![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab6/screens/ex3)
 
 
 
