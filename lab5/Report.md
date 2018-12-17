@@ -45,13 +45,13 @@ In order to do this I querry each part, count them and with if determined the re
 In the 3 task I also determined the biggest number from 3 using **case**
 
 
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab4/screens/ex3.jpg) 
+ ![]https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab5/screens/ex3.jpg) 
  
  **Task4**
 
 In ythis example I resolve the same problem, but I used **try-catch** to determine if the date was initialized.  For some personalized error we can use RAISERROR.
 
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab4/screens/ex4.jpg)
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab5/screens/ex4.jpg)
  
  
  
